@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 - 2번
 - 3번
 - [네이버](http://naver.com)
+
+```python
+print('안녕?')
+```
