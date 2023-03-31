@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 ```python
 print('안녕?')
 ```
-
+:smirk:
+:joy:
+:rage:
 
 
