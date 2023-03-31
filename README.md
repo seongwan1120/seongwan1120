@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=seongwan1120)](https://github.com/seongwan1120)
 
 
 ### Hi there 👋
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
 - 2번
 - 3번
 - [네이버](http://naver.com)
+- [카페](https://cafe.naver.com/githubStudy)
 
 ```python
 print('안녕?')
