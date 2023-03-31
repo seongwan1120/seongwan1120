@@ -2,6 +2,9 @@
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=seongwan1120)](https://github.com/seongwan1120)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongwan1120](https://github.com/seongwan1120/github-readme-stats)
+
+
 
 ### Hi there 👋
 
