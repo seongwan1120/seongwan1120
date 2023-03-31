@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - 1번
 - 2번
 - 3번
-- [네이버]{http://naver.com}
+- [네이버](http://naver.com)
