@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ---
 **두껍게** <br>
 *이탤릭* <br>
----취소선--- <br>
+~~취소선~~ <br>
 - 1번
 - 2번
 - 3번
