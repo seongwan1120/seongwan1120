@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My%20github&fontSize=90&animation=scaleIn)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=seongwan1120)](https://github.com/seongwan1120)
 
