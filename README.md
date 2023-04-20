@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 2번
 - 3번
 - [네이버](http://naver.com)
-- [카페](https://cafe.naver.com/githubStudy)
+- [markdown](https://cafe.naver.com/githubstudy/13)
 
 ```python
 print('안녕?')
